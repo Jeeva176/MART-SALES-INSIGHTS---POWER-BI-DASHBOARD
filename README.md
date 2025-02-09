@@ -1,4 +1,8 @@
-# MART-SALES-INSIGHTS-POWER-BI-DASHBOARD
+# MART-SALES-INSIGHTS POWER-BI-DASHBOARD
+
+# 📝 Project Description
+
+The Mart Sales Insights project is designed to help businesses understand their sales performance through interactive data visualizations. Using Power BI, the dashboard provides deep insights into sales trends, regional distribution, and top-performing products. The project aims to enable data-driven decision-making by offering clear and detailed analysis of sales data. It is useful for business analysts, sales teams, and decision-makers looking to optimize strategies based on real-time data insights.
 
 
 # 📌 Project Overview
